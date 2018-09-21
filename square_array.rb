@@ -5,7 +5,7 @@ counter = 1
 array.each do |element|
   puts "#{counter}"
   puts " #{element}"
-  counter += 1
+  counter += 
   arrays.push element * element
 end
 arrays
